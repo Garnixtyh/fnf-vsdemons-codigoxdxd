@@ -1,0 +1,11 @@
+{
+	"idle_anim": "fondo",
+	"image": "fondo menu",
+	"position": [
+		1379,
+		226
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": ""
+}

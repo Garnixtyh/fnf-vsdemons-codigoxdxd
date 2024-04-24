@@ -1,0 +1,40 @@
+{
+	"storyName": "una deuda del demonio!!",
+	"difficulties": "demonic",
+	"hideFreeplay": false,
+	"weekBackground": "welltown",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"star-trehft",
+			"band",
+			[
+				175,
+				55,
+				55
+			]
+		],
+		[
+			"demonness",
+			"dimon",
+			[
+				175,
+				55,
+				55
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"fondomenu",
+		"boyfriend",
+		"logo"
+	],
+	"weekName": "Custom Week"
+}

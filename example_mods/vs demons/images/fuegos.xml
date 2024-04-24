@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fuegos.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="188" height="157" frameX="0" frameY="-23" frameWidth="188" frameHeight="182"/>
+	<SubTexture name="blue0001" x="0" y="0" width="188" height="157" frameX="0" frameY="-23" frameWidth="188" frameHeight="182"/>
+	<SubTexture name="blue0002" x="188" y="0" width="182" height="167" frameX="-2" frameY="-12" frameWidth="188" frameHeight="182"/>
+	<SubTexture name="blue0003" x="188" y="0" width="182" height="167" frameX="-2" frameY="-12" frameWidth="188" frameHeight="182"/>
+	<SubTexture name="blue0004" x="370" y="0" width="178" height="175" frameX="-3" frameY="-6" frameWidth="188" frameHeight="182"/>
+	<SubTexture name="blue0005" x="370" y="0" width="178" height="175" frameX="-3" frameY="-6" frameWidth="188" frameHeight="182"/>
+	<SubTexture name="blue0006" x="548" y="0" width="174" height="182" frameX="-6" frameY="0" frameWidth="188" frameHeight="182"/>
+	<SubTexture name="blue0007" x="548" y="0" width="174" height="182" frameX="-6" frameY="0" frameWidth="188" frameHeight="182"/>
+	<SubTexture name="green0000" x="722" y="0" width="189" height="155" frameX="0" frameY="-23" frameWidth="189" frameHeight="179"/>
+	<SubTexture name="green0001" x="722" y="0" width="189" height="155" frameX="0" frameY="-23" frameWidth="189" frameHeight="179"/>
+	<SubTexture name="green0002" x="0" y="182" width="180" height="162" frameX="-2" frameY="-12" frameWidth="189" frameHeight="179"/>
+	<SubTexture name="green0003" x="0" y="182" width="180" height="162" frameX="-2" frameY="-12" frameWidth="189" frameHeight="179"/>
+	<SubTexture name="green0004" x="180" y="182" width="177" height="172" frameX="-3" frameY="-6" frameWidth="189" frameHeight="179"/>
+	<SubTexture name="green0005" x="180" y="182" width="177" height="172" frameX="-3" frameY="-6" frameWidth="189" frameHeight="179"/>
+	<SubTexture name="green0006" x="357" y="182" width="175" height="179" frameX="-6" frameY="0" frameWidth="189" frameHeight="179"/>
+	<SubTexture name="green0007" x="357" y="182" width="175" height="179" frameX="-6" frameY="0" frameWidth="189" frameHeight="179"/>
+	<SubTexture name="purple0000" x="532" y="182" width="185" height="171" frameX="0" frameY="-24" frameWidth="185" frameHeight="199"/>
+	<SubTexture name="purple0001" x="532" y="182" width="185" height="171" frameX="0" frameY="-24" frameWidth="185" frameHeight="199"/>
+	<SubTexture name="purple0002" x="717" y="182" width="182" height="183" frameX="-1" frameY="-12" frameWidth="185" frameHeight="199"/>
+	<SubTexture name="purple0003" x="717" y="182" width="182" height="183" frameX="-1" frameY="-12" frameWidth="185" frameHeight="199"/>
+	<SubTexture name="purple0004" x="0" y="365" width="176" height="193" frameX="-5" frameY="-5" frameWidth="185" frameHeight="199"/>
+	<SubTexture name="purple0005" x="0" y="365" width="176" height="193" frameX="-5" frameY="-5" frameWidth="185" frameHeight="199"/>
+	<SubTexture name="purple0006" x="176" y="365" width="169" height="199" frameX="-8" frameY="0" frameWidth="185" frameHeight="199"/>
+	<SubTexture name="purple0007" x="176" y="365" width="169" height="199" frameX="-8" frameY="0" frameWidth="185" frameHeight="199"/>
+	<SubTexture name="red0000" x="345" y="365" width="189" height="154" frameX="0" frameY="-22" frameWidth="189" frameHeight="177"/>
+	<SubTexture name="red0001" x="345" y="365" width="189" height="154" frameX="0" frameY="-22" frameWidth="189" frameHeight="177"/>
+	<SubTexture name="red0002" x="534" y="365" width="181" height="161" frameX="-1" frameY="-12" frameWidth="189" frameHeight="177"/>
+	<SubTexture name="red0003" x="534" y="365" width="181" height="161" frameX="-1" frameY="-12" frameWidth="189" frameHeight="177"/>
+	<SubTexture name="red0004" x="715" y="365" width="177" height="171" frameX="-3" frameY="-5" frameWidth="189" frameHeight="177"/>
+	<SubTexture name="red0005" x="715" y="365" width="177" height="171" frameX="-3" frameY="-5" frameWidth="189" frameHeight="177"/>
+	<SubTexture name="red0006" x="0" y="564" width="175" height="177" frameX="-6" frameY="0" frameWidth="189" frameHeight="177"/>
+	<SubTexture name="red0007" x="0" y="564" width="175" height="177" frameX="-6" frameY="0" frameWidth="189" frameHeight="177"/>
+</TextureAtlas>

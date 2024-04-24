@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				71
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-24,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "abajo0"
+		},
+		{
+			"offsets": [
+				15,
+				28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "izquierda0"
+		},
+		{
+			"offsets": [
+				-114,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "derecha0"
+		},
+		{
+			"offsets": [
+				-8,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-12,
+				53
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "angry"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				80
+			],
+			"anim": "haha",
+			"fps": 24,
+			"name": "haha",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/band xd",
+	"position": [
+		110,
+		210
+	],
+	"healthicon": "band",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		6,
+		46
+	],
+	"camera_position": [
+		40,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

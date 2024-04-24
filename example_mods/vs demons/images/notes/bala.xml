@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hay_note.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="164" height="154"/>
+	<SubTexture name="blue hold end0000" x="164" y="0" width="73" height="64"/>
+	<SubTexture name="blue hold piece0000" x="237" y="0" width="61" height="53"/>
+	<SubTexture name="green0000" x="298" y="0" width="157" height="154"/>
+	<SubTexture name="green hold end0000" x="455" y="0" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="0" y="154" width="50" height="44"/>
+	<SubTexture name="pruple end hold0000" x="50" y="154" width="65" height="69"/>
+	<SubTexture name="purple0000" x="115" y="154" width="154" height="157"/>
+	<SubTexture name="purple hold piece0000" x="269" y="154" width="60" height="44"/>
+	<SubTexture name="red0000" x="329" y="154" width="154" height="157"/>
+	<SubTexture name="red hold end0000" x="0" y="311" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="50" y="311" width="50" height="44"/>
+</TextureAtlas>

@@ -1,0 +1,41 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "demonic",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekb",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"suspicius-sus",
+			"sus",
+			[
+				26,
+				140,
+				133
+			]
+		],
+		[
+			"meta",
+			"bandmeta",
+			[
+				235,
+				93,
+				133
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

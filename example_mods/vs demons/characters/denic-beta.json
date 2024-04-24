@@ -1,0 +1,75 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-497,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "izquierda"
+		},
+		{
+			"offsets": [
+				-513,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "derecha"
+		},
+		{
+			"offsets": [
+				-385,
+				-20
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				7,
+				7,
+				7
+			],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "derecha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/denic",
+	"position": [
+		-280,
+		110
+	],
+	"healthicon": "denic",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		270,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

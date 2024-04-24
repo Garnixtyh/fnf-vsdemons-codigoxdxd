@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="band.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="...0000" x="0" y="0" width="448" height="508"/>
+	<SubTexture name="...0001" x="0" y="0" width="448" height="508"/>
+	<SubTexture name="...0002" x="0" y="0" width="448" height="508"/>
+	<SubTexture name="...0003" x="448" y="0" width="448" height="508"/>
+	<SubTexture name="...0004" x="448" y="0" width="448" height="508"/>
+	<SubTexture name="...0005" x="448" y="0" width="448" height="508"/>
+	<SubTexture name="...0006" x="0" y="0" width="448" height="508"/>
+	<SubTexture name="haha0000" x="896" y="0" width="536" height="518" frameX="0" frameY="0" frameWidth="538" frameHeight="521"/>
+	<SubTexture name="haha0001" x="896" y="0" width="536" height="518" frameX="0" frameY="0" frameWidth="538" frameHeight="521"/>
+	<SubTexture name="haha0002" x="1432" y="0" width="536" height="515" frameX="-2" frameY="-6" frameWidth="538" frameHeight="521"/>
+	<SubTexture name="haha0003" x="1432" y="0" width="536" height="515" frameX="-2" frameY="-6" frameWidth="538" frameHeight="521"/>
+	<SubTexture name="haha0004" x="0" y="518" width="536" height="518" frameX="0" frameY="0" frameWidth="538" frameHeight="521"/>
+	<SubTexture name="haha0005" x="0" y="518" width="536" height="518" frameX="0" frameY="0" frameWidth="538" frameHeight="521"/>
+	<SubTexture name="haha0006" x="536" y="518" width="536" height="515" frameX="-2" frameY="-6" frameWidth="538" frameHeight="521"/>
+	<SubTexture name="haha0007" x="536" y="518" width="536" height="515" frameX="-2" frameY="-6" frameWidth="538" frameHeight="521"/>
+	<SubTexture name="mm0000" x="1072" y="518" width="446" height="513" frameX="0" frameY="-15" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="mm0001" x="1072" y="518" width="446" height="513" frameX="0" frameY="-15" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="mm0002" x="1518" y="518" width="448" height="516" frameX="-3" frameY="-6" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="mm0003" x="1518" y="518" width="448" height="516" frameX="-3" frameY="-6" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="mm0004" x="0" y="1036" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="mm0005" x="0" y="1036" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="mm0006" x="0" y="1036" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="nervioso0000" x="448" y="1036" width="446" height="518" frameX="0" frameY="-10" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="nervioso0001" x="448" y="1036" width="446" height="518" frameX="0" frameY="-10" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="nervioso0002" x="894" y="1036" width="448" height="516" frameX="-3" frameY="-6" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="nervioso0003" x="894" y="1036" width="448" height="516" frameX="-3" frameY="-6" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="nervioso0004" x="1342" y="1036" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="nervioso0005" x="1342" y="1036" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="nervioso0006" x="1342" y="1036" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="normal0000" x="0" y="1558" width="446" height="518" frameX="0" frameY="-10" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="normal0001" x="0" y="1558" width="446" height="518" frameX="0" frameY="-10" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="normal0002" x="446" y="1558" width="448" height="516" frameX="-3" frameY="-6" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="normal0003" x="446" y="1558" width="448" height="516" frameX="-3" frameY="-6" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="normal0004" x="894" y="1558" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="normal0005" x="894" y="1558" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+	<SubTexture name="normal0006" x="894" y="1558" width="448" height="522" frameX="-3" frameY="0" frameWidth="451" frameHeight="528"/>
+</TextureAtlas>

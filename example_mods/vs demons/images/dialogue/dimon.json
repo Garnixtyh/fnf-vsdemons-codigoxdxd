@@ -1,0 +1,50 @@
+{
+	"position": [
+		40,
+		70
+	],
+	"dialogue_pos": "left",
+	"scale": 1.25,
+	"image": "dimon",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				32
+			],
+			"loop_offsets": [
+				0,
+				32
+			],
+			"anim": "talk",
+			"idle_name": "dialoge0006",
+			"loop_name": "dialoge"
+		},
+		{
+			"idle_offsets": [
+				0,
+				32
+			],
+			"anim": "excited",
+			"loop_offsets": [
+				0,
+				32
+			],
+			"idle_name": "yeah0006",
+			"loop_name": "yeah"
+		},
+		{
+			"loop_offsets": [
+				0,
+				32
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				32
+			],
+			"loop_name": "-_-0",
+			"idle_name": "-_-0006"
+		}
+	]
+}

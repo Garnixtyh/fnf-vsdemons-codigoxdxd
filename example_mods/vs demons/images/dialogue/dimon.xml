@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dimon.png">
+	<!-- Created with Adobe Animate version 16.0.0.112 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="-_-0000" x="38" y="38" width="507" height="531" frameX="-8" frameY="-18" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="-_-0001" x="38" y="38" width="507" height="531" frameX="-8" frameY="-18" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="-_-0002" x="630" y="38" width="515" height="543" frameX="0" frameY="-4" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="-_-0003" x="630" y="38" width="515" height="543" frameX="0" frameY="-4" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="-_-0004" x="1230" y="38" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="-_-0005" x="1230" y="38" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="-_-0006" x="38" y="681" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="dialoge0000" x="628" y="681" width="507" height="531" frameX="-8" frameY="-18" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="dialoge0001" x="628" y="681" width="507" height="531" frameX="-8" frameY="-18" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="dialoge0002" x="1220" y="681" width="515" height="543" frameX="0" frameY="-4" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="dialoge0003" x="1220" y="681" width="515" height="543" frameX="0" frameY="-4" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="dialoge0004" x="38" y="1324" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="dialoge0005" x="38" y="1324" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="dialoge0006" x="628" y="1324" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="yeah0000" x="1218" y="1324" width="507" height="531" frameX="-8" frameY="-18" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="yeah0001" x="1218" y="1324" width="507" height="531" frameX="-8" frameY="-18" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="yeah0002" x="38" y="1967" width="515" height="543" frameX="0" frameY="-4" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="yeah0003" x="38" y="1967" width="515" height="543" frameX="0" frameY="-4" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="yeah0004" x="638" y="1967" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="yeah0005" x="638" y="1967" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+	<SubTexture name="yeah0006" x="1228" y="1967" width="505" height="558" frameX="0" frameY="0" frameWidth="515" frameHeight="558"/>
+</TextureAtlas>

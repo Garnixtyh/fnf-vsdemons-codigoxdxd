@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logo_menu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logo0000" x="0" y="0" width="531" height="413"/>
+	<SubTexture name="logo0001" x="0" y="0" width="531" height="413"/>
+	<SubTexture name="logo0002" x="531" y="0" width="423" height="318" frameX="-54" frameY="-47" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0003" x="531" y="0" width="423" height="318" frameX="-54" frameY="-47" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0004" x="0" y="413" width="377" height="270" frameX="-77" frameY="-71" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0005" x="0" y="413" width="377" height="270" frameX="-77" frameY="-71" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0006" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0007" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0008" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0009" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0010" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0011" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0012" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0013" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0014" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0015" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0016" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0017" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+	<SubTexture name="logo0018" x="377" y="413" width="366" height="263" frameX="-82" frameY="-74" frameWidth="531" frameHeight="413"/>
+</TextureAtlas>

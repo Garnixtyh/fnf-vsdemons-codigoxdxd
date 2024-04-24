@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				47,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "abajo0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				78
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "izquierda0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "derecha0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				70
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rene",
+	"position": [
+		110,
+		210
+	],
+	"healthicon": "rene",
+	"flip_x": false,
+	"healthbar_colors": [
+		133,
+		5,
+		65
+	],
+	"camera_position": [
+		40,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

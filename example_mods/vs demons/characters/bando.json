@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-73,
+				109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-259,
+				72
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-115,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-219,
+				124
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-248,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-139,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "bando_ enojao"
+		},
+		{
+			"offsets": [
+				-20,
+				111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "bando uwu",
+			"indices": [],
+			"name": "bando uwu"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-109,
+				225
+			],
+			"anim": "creepy2",
+			"fps": 24,
+			"name": "bando_creapy 2",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				128
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "bando sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				10
+			],
+			"anim": "sus",
+			"fps": 24,
+			"name": "bando sus",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-40,
+				110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "creepy",
+			"indices": [],
+			"name": "bando_creepy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bando",
+	"position": [
+		-40,
+		220
+	],
+	"healthicon": "bando",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		7,
+		36
+	],
+	"camera_position": [
+		30,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

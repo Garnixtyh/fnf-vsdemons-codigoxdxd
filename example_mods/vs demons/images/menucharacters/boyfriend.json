@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"confirm_anim": "",
+	"position": [
+		519,
+		102
+	],
+	"scale": 1,
+	"flipX": false,
+	"image": "boyfriend"
+}

@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "shh",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "haha",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			],
+			"name": "shh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-182,
+				83
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "derecha0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-182,
+				83
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "derecha-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				38,
+				52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "izquierda0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				52
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "izquierda-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				84
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "arriba0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				55
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "arriba-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				18
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				19
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle-alt0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-96,
+				46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "abajo0"
+		},
+		{
+			"offsets": [
+				-105,
+				54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "abajo-alt0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sus-sul",
+	"position": [
+		140,
+		210
+	],
+	"healthicon": "sus",
+	"flip_x": false,
+	"healthbar_colors": [
+		45,
+		37,
+		63
+	],
+	"camera_position": [
+		100,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
